@@ -1,0 +1,54 @@
+{
+	
+	"TEXT": [
+		{
+			"name": "Text",
+			"description": "",
+			"type": "text",
+			"icon": {
+				"prefix": "fas",
+				"name": "font"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "",
+				"width": 60,
+				"height": 30,
+				"fontSize": 32,
+				"name": "New text"
+			}
+		}
+	],
+	"IMAGE": [
+		{
+			"name": "Image",
+			"description": "",
+			"type": "image",
+			"icon": {
+				"prefix": "fas",
+				"name": "image"
+			},
+			"option": {
+				"type": "image",
+				"name": "New image",
+				"src": "./images/sample/transparentBg.png"
+			}
+		},
+		{
+			"name": "GIF",
+			"description": "",
+			"type": "gif",
+			"icon": {
+				"prefix": "fas",
+				"name": "image"
+			},
+			"option": {
+				"type": "gif",
+				"width": 400,
+				"height": 400,
+				"name": "New gif",
+				"src": ""
+			}
+		}
+	]
+}
